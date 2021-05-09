@@ -1,6 +1,6 @@
 # Web Scraping Homework - Mission to Mars
 
-![mission_to_mars](Images/mission_to_mars.png)
+![mission_to_mars](resources/images/mission_to_mars.png)
 
 In this assignment, you will build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. The following outlines what you need to do.
 
@@ -114,7 +114,3 @@ To submit your work to BootCampSpot, create a new GitHub repository and upload t
 * Use Pymongo for CRUD applications for your database. For this homework, you can simply overwrite the existing document each time the `/scrape` url is visited and new data is obtained.
 
 * Use Bootstrap to structure your HTML template.
-
-### Copyright
-
-Trilogy Education Services © 2021. All Rights Reserved.
