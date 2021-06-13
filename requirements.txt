@@ -1,2 +1,3 @@
-selenium
-splinter
+selenium installed
+splinter installed
+and a running database
